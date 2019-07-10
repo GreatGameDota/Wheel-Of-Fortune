@@ -1,4 +1,4 @@
-# Wheel-Of-Fortune
+# Wheel Of Fortune
 Wheel of Fortune game on the Java console
 
 Created as a final project for a Java course I took from 2018-19
